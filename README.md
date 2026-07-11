@@ -8,6 +8,9 @@ A mobile-first arcade game built with HTML, CSS, and JavaScript. Aim a numbered 
 - Dotted trajectory preview
 - Wall bouncing and target collision physics
 - Equal-number merging and score progression
+- Chain reactions and combo multipliers
+- Advancing rows, danger line, and game-over loop
+- Particle bursts and floating score feedback
 - Persistent high score and settings
 - Responsive mobile interface
 
